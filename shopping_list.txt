@@ -3,3 +3,4 @@ mleko x 4
 kaskaval x 2 
 kechap x 6
 jogurt x 9
+majonez 
