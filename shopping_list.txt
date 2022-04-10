@@ -2,4 +2,4 @@ leb x 3
 mleko x 4
 kaskaval x 2 
 salama x 6
-jogurt x 9
+jogurt x 7
